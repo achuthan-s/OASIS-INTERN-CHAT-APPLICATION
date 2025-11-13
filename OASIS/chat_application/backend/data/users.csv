@@ -1,0 +1,5 @@
+id,username,email,password,created_at,avatar
+1,User1,naveenm200703@gmail.com,$2b$12$O.A6QpLaa0K8tjfY3e89rew6TUlCnwJghTlPYB1ijqG51/.sZNpxW,2025-11-12T14:00:01.348762,https://ui-avatars.com/api/?name=User1&background=4F46E5&color=fff
+2,U1,u1@gmail.com,$2b$12$W8u/sjZmESNpFqq3R8VKauwRw2BYNo0ummNzJL8vMN9.MVXykbxLK,2025-11-12T14:52:05.866836,https://ui-avatars.com/api/?name=U1&background=4F46E5&color=fff
+3,P1,p1@gmail.com,$2b$12$zawJajkL6nRt.xHDnXprD.bZDsZB1Xzg1ARReUOv1w7Lpm4G/34yq,2025-11-12T21:05:34.020720,https://ui-avatars.com/api/?name=P1&background=4F46E5&color=fff
+4,P2,p2@gmail.com,$2b$12$Kt1Nt5lVBhrs/AE3BwJWNOIY2MAaKRjF0IRI7VEptM9g.zB3/ZrXq,2025-11-12T21:06:31.300264,https://ui-avatars.com/api/?name=P2&background=4F46E5&color=fff

@@ -1,0 +1,8 @@
+id,room_id,user_id,username,message,message_type,timestamp,encrypted
+1,1,2,U1,Hi,text,2025-11-12T14:52:13.411403,false
+2,1,2,U1,Hello,text,2025-11-12T14:52:15.710433,false
+3,1,2,U1,How are you?,text,2025-11-12T14:52:23.061101,false
+4,1,3,P1,Hello,text,2025-11-12T21:05:44.331921,false
+5,1,3,P1,Hope everyone is fine,text,2025-11-12T21:05:54.355032,false
+6,1,4,P2,Yes i am fine,text,2025-11-12T21:06:41.817917,false
+7,1,4,P2,How about you,text,2025-11-12T21:06:45.711036,false

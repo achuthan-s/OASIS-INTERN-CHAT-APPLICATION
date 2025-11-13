@@ -1,0 +1,7 @@
+id,room_id,user_id,username,message,message_type,timestamp,encrypted
+1,1,1,Naveen,Hi how are u,text,2025-11-09T12:51:08.176620,false
+2,1,1,Naveen,gAAAAABpEEDwAocNyPerTPFQQfAV0KS1ftZMeS1gSF6L_C7B7IXyq4s5D-0sjsu8dS7MUF1Qol1oZMTCi8uWdRGFIIGlNYHM6Q==,text,2025-11-09T12:51:20.818061,false
+3,1,1,Naveen,gAAAAABpEELqUSg365lEKFOBoIZEZEw968rffwcdwYMphsamVBo5uNUS1EBuKRN4xtb7FBrpVJSkJ3_oBh9ZPkHVPXOxTB-u7Q==,text,2025-11-09T12:59:46.857525,true
+4,1,1,Naveen,How are u,text,2025-11-09T13:01:03.502487,false
+5,1,2,Nav,Fine,text,2025-11-09T13:01:11.655284,false
+6,3,1,Naveen,Hlo,text,2025-11-09T13:01:27.451888,false

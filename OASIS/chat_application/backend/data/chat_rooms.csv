@@ -1,0 +1,4 @@
+id,name,description,created_by,created_at,is_private
+1,General,Main chat room for everyone,system,2025-11-09T12:47:05.560300,false
+2,Random,Casual conversations,system,2025-11-09T12:47:05.560644,false
+3,Tech Talk,Discuss technology and programming,system,2025-11-09T12:47:05.560862,false
